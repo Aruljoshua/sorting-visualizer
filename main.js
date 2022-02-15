@@ -1,7 +1,6 @@
 /*
     *****************
-    DONE BY:-   TUMMALA KETHAN
-    E-MAIL:-    tummala.kethan@gmail.com
+    DONE BY:-   Arul Joshua and Murali
     *****************
 */
 
@@ -85,10 +84,3 @@ function runalgo()
                         break;
     }
 }
-
-/*
-    *****************
-    DONE BY:-   TUMMALA KETHAN
-    E-MAIL:-    tummala.kethan@gmail.com
-    *****************
-*/
